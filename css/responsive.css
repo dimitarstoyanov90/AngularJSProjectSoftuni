@@ -1,0 +1,14 @@
+#navigation{
+	width: 95%;
+}
+
+
+#leftCol, #rigthCol{
+	float: none;
+	width: 100%;
+	padding: 3px;
+}	
+
+#rigthCol{
+	font-color: #008080;
+}
